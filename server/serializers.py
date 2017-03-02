@@ -1,0 +1,1 @@
+# use marshmallow https://techarena51.com/index.php/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-sqlalchemy/

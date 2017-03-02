@@ -1,0 +1,11 @@
+Flask
+Flask-Restful
+Flask-API
+Flask-SQLAlchemy
+marshmallow
+marshmallow-jsonapi
+psycopg2
+Flask-Migrate
+Flask-Script
+Flask-Security
+Flask-mail

@@ -1,0 +1,11 @@
+
+version: '2'
+
+services:
+  project_lisa:
+    image: project_lisa:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8000:8000
